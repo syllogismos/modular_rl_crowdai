@@ -31,3 +31,10 @@ snapshots/
 agent_runs/
 training_agent_runs/
 downloaded_runs/
+aws-apr-27/
+aws-apr-28/
+consolidate/
+consolidated_snapshots/
+figures/
+videos/
+runs.txt
